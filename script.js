@@ -1,0 +1,1 @@
+console.log("Brian Research Consultancy website loaded successfully.");
